@@ -30,3 +30,7 @@ body{
 #player-one-dice,#player-two-dice{
     width: 180px;
 }
+.btn-cs{
+    margin-bottom: 45px;
+    background-color: #7fcd91;
+}
