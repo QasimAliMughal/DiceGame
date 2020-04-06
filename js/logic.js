@@ -1,3 +1,5 @@
+document.getElementById('rollBtn').addEventListener('click',()=>init(1,1));
+
 function init(score1,score2) {
     this.playerOneScore = score1;
     this.playerTwoScore = score2;
